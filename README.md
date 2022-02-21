@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wildething96
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working with React and studying at Code Nation 
+- 👋 Hi, I’m @wildething96 or just call me Ben
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently working with nodejs, React, RestAPIs and more while also studying at Code Nation 
 - 💞️ I’m looking to collaborate on a web based project
 - 📫 How to reach me bwilde96@yahoo.co.uk
 
